@@ -1,4 +1,4 @@
-## 🌐 Adidas-Sales-Performance
+# 🌐 Adidas-Sales-Performance
 
 An **interactive sales dashboard** built with **Streamlit** and **Plotly** to analyze Adidas sales performance across multiple dimensions.  
 The app provides retailers, managers, and analysts with actionable insights through dynamic visualizations and exportable reports
